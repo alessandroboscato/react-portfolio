@@ -3,7 +3,7 @@ export const skills = [
       skill: "HTML",
     },
     {
-      skill: "CSS/SASS/Tailwind",
+      skill: "CSS/SASS/Bootstrap/Tailwind",
     },
     {
       skill: "JS/jQuery/React",
